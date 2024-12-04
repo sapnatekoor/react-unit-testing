@@ -31,6 +31,6 @@ test("Test case2", ()=>{
 //     console.log("I m getting called after all test case")
 // })
 
-afterEach(()=>{
-    console.log("I m getting called after each test case")
-})
+// afterEach(()=>{
+//     console.log("I m getting called after each test case")
+// })
